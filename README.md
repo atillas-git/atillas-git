@@ -24,6 +24,9 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 - **Git/GitHub** - Version control and collaboration
 - **CI/CD** - Automated testing and deployment workflows
 - **Agile/Scrum** - Iterative development methodologies
+- **Entity Framework Core**
+- **Prisma**
+- **Linq**
   
 ### Cloud Technologies
 - **GCP**

@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Atilla👋
 
 I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sistemleri**. I specialize in building robust and scalable web applications using modern technologies and frameworks.
 
@@ -27,10 +27,6 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 ## 📫 How to Reach Me
 
 - LinkedIn: (https://www.linkedin.com/in/atilla-sina-p-734707202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-## 📊 GitHub Stats
-
-!(https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 

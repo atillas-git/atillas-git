@@ -6,13 +6,13 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 
 ### Frontend
 - **React & Next.js** - Building modern, responsive interfaces with server components
-- **TypeScript** - Type-safe development across the entire stack
+- **TypeScript & Javascript** - Type-safe development across the entire stack
 - **HTML5/CSS3** - Crafting accessible and responsive designs
 
 ### Backend
 - **Node.js** - RESTful APIs and microservices
 - **ASP.NET Core** - Enterprise-grade backend solutions with C#
-- **ASP.NET MVC** - For bulding long lasting mvc frontends with Razor
+- **ASP.NET MVC** - For building long lasting MVC frontends with Razor
 
 ### Databases
 - **PostgreSQL** - Relational data modeling and complex queries
@@ -23,6 +23,9 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 - **Git/GitHub** - Version control and collaboration
 - **CI/CD** - Automated testing and deployment workflows
 - **Agile/Scrum** - Iterative development methodologies
+  
+### Cloud Technologies
+- **GCP**
 
 ## 📫 How to Reach Me
 

@@ -38,5 +38,3 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 - LinkedIn: https://www.linkedin.com/in/atilla-sina-p
 
 ---
-
-⭐️ From atillas-git(https://github.com/atillas-git)

@@ -18,6 +18,7 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 - **PostgreSQL** - Relational data modeling and complex queries
 - **Microsoft SQL Server** - Enterprise data solutions
 - **MongoDB** - Document-oriented storage for flexible schemas
+- **Redis** - In memory key value store
 
 ### Tools & Practices
 - **Git/GitHub** - Version control and collaboration

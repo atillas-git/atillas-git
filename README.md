@@ -8,6 +8,8 @@ I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sis
 - **React & Next.js** - Building modern, responsive interfaces with server components
 - **TypeScript & Javascript** - Type-safe development across the entire stack
 - **HTML5/CSS3** - Crafting accessible and responsive designs
+- **Tailwind**
+- **Bootstrap**
 
 ### Backend
 - **Node.js** - RESTful APIs and microservices

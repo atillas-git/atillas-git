@@ -1,6 +1,6 @@
 # Hello, I'm Atilla👋
 
-I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sistemleri**. I specialize in building robust and scalable web applications using modern technologies and frameworks.
+I'm a Fullstack Developer based in Turkey, currently working at **Usta Bilgi Sistemleri A.Ş.**. I specialize in building robust and scalable web applications using modern technologies and frameworks.
 
 ## 💻 Technologies & Skills
 

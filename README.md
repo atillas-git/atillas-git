@@ -6,10 +6,10 @@ Software Developer at **Usta Bilgi Sistemleri A.Ş.** building scalable web appl
 - **Frontend:** React, Next.js, ASP.NET MVC, TailwindCSS  
 - **Backend:** Node.js, ASP.NET Core 
 - **Databases:** PostgreSQL, SQL Server, MongoDB, Redis  
-- **Tools:** Git, CI/CD, RabbitMQ
+- **Tools:** Git, RabbitMQ
 - **Cloud:** GCP
 
-**Programming Languages** : C#, JS/TS
+**Programming Languages** : C#, JavaScript / TypeScript
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/atilla-sina-p)

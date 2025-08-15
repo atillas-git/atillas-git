@@ -1,6 +1,6 @@
 # Hello, I'm Atilla 👋
 
-Fullstack Developer at **Usta Bilgi Sistemleri A.Ş.** building scalable web applications.
+Software Developer at **Usta Bilgi Sistemleri A.Ş.** building scalable web applications.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, ASP.NET MVC, TailwindCSS  
